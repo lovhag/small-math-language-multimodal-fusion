@@ -1,4 +1,4 @@
-# Small multimodal models for small math-and-language domain 
+# Small multimodal models in a math-and-language domain 
 
 Code for the (Dis)embodiment workshop 2022 paper "Can We Use Small Models to Investigate Multimodal Fusion Methods?" (TBD: provide link to article).
 
