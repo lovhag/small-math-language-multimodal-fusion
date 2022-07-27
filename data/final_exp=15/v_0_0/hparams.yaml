@@ -1,0 +1,15 @@
+gpt_model: null
+hparams:
+  generate_after_token: 33
+  l_layers: 3
+  learning_rate: 0.001
+  n_embd: 64
+  n_head: 8
+  n_inner: 256
+  n_layer: 4
+  n_positions: 64
+  pad_token_idx: 0
+  r_layers: 2
+  visual_embedding_dim: 64
+  vocab_size: 50
+  x_layers: 2
