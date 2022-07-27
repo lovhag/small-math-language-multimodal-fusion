@@ -48,8 +48,7 @@ ___
 
 ## Experiments on math-and-language models
 
-___
-
+Train multimodal math-and-language models. These are all dependent on having a previously trained pure math model to generate representations of math information.
 
 ### VisualBERT embeddings and Single-stream (final_exp=10)
 
